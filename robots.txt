@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://osmanjavaid10.github.io/content-first-demo-site/sitemap.xml

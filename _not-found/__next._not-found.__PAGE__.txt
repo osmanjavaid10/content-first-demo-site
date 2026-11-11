@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/content-first-demo-site/_next/static/chunks/39h7ssign9_i1.js"
+4:"/content-first-demo-site/_next/static/chunks/2_58xs15_thkp.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container-page section","children":[["$","p",null,{"className":"t-eyebrow","children":"Error 404"}],["$","h1",null,{"className":"t-display mt-6 max-w-[14ch]","children":["This page has been ",["$","em",null,{"className":"text-accent","children":"edited out."}]]}],["$","p",null,{"className":"t-lead mt-8 max-w-[40ch] text-muted","children":"The link may be old, or the page may have moved. The journal is a good place to start again."}],["$","div",null,{"className":"mt-8 flex flex-wrap gap-x-10 gap-y-2","children":[["$","$Lb",null,{"href":"/","className":"group inline-flex min-h-11 items-center gap-3 font-medium ","children":[["$","span",null,{"className":"link","children":"Back to home"}],["$","svg",null,{"aria-hidden":"true","viewBox":"0 0 24 24","className":"inline-block h-[1em] w-[1em] shrink-0 transition-transform duration-500 ease-soft group-hover:translate-x-1 group-hover:text-accent","fill":"none","stroke":"currentColor","strokeWidth":"1.5","children":["$","path",null,{"d":"M4 12h16M14 6l6 6-6 6"}]}]]}],["$","$Lb",null,{"href":"/journal","className":"group inline-flex min-h-11 items-center gap-3 font-medium ","children":[["$","span",null,{"className":"link","children":"Read the journal"}],["$","svg",null,{"aria-hidden":"true","viewBox":"0 0 24 24","className":"inline-block h-[1em] w-[1em] shrink-0 transition-transform duration-500 ease-soft group-hover:translate-x-1 group-hover:text-accent","fill":"none","stroke":"currentColor","strokeWidth":"1.5","children":["$","path",null,{"d":"M4 12h16M14 6l6 6-6 6"}]}]]}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f7f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#151412","media":"(prefers-color-scheme: dark)"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found · Studio Alder"}],["$","meta","1",{"name":"description","content":"Studio Alder is the practice of writer Nora Alder: essays, brand voice, and editorial work for people who make things with care."}],["$","meta","2",{"name":"author","content":"Nora Alder"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","link","4",{"rel":"canonical","href":"https://osmanjavaid10.github.io/content-first-demo-site/"}],["$","meta","5",{"property":"og:title","content":"Studio Alder · Writer & Creative"}],["$","meta","6",{"property":"og:description","content":"Studio Alder is the practice of writer Nora Alder: essays, brand voice, and editorial work for people who make things with care."}],["$","meta","7",{"property":"og:url","content":"https://osmanjavaid10.github.io/content-first-demo-site/"}],["$","meta","8",{"property":"og:site_name","content":"Studio Alder"}],["$","meta","9",{"property":"og:locale","content":"en_GB"}],["$","meta","10",{"property":"og:image","content":"https://osmanjavaid10.github.io/content-first-demo-site/og.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Studio Alder · Writer & Creative"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Studio Alder · Writer & Creative"}],["$","meta","17",{"name":"twitter:description","content":"Studio Alder is the practice of writer Nora Alder: essays, brand voice, and editorial work for people who make things with care."}],["$","meta","18",{"name":"twitter:image","content":"https://osmanjavaid10.github.io/content-first-demo-site/og.jpg"}],["$","link","19",{"rel":"icon","href":"/content-first-demo-site/icon.svg?icon.12ajqwiv904zt.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"BzlGvQllBnU9-fTsDPzW0"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"
